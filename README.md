@@ -1,4 +1,4 @@
-Followed Agile Scrum Methodology.
+By followed Agile Scrum Methodology:
 
 Developed a virtual environment for simulating the critical scenarios on urban roads.
 
